@@ -3,7 +3,7 @@ class Kf5Kauth < Formula
   homepage "https://www.kde.org"
   url "https://download.kde.org/stable/frameworks/5.42/kauth-5.42.0.tar.xz"
   sha256 "91ebf3554551c3815e89e53e577e42d7cc3ac1f4966215fbbc93a60ca1587812"
-  revision 1
+  revision 2
 
   head "git://anongit.kde.org/kauth.git"
 
